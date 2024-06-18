@@ -1,4 +1,4 @@
-# Inteligencia Artificial y Aprendizaje Automático
+# Ciencia de Datos e Inteligencia Artificial
 
 
 ![Logos participantes](figs/logos.png)
@@ -7,11 +7,17 @@
 
 ---
 
-**Fecha:** 27 de febrero a 21 marzo de 2024  
+**Fechas:** 
 
-**Responsable:** Dr. Ulises Olivares Pinto  
+> Parte I: 18 de junio al 01 de agosto de 2024
 
-**Auxiliares:** Alan Poisot Palacios, Joshelyn Yanori Mendoza Alfaro  
+> Parte II: Por definir
+
+**Responsable:** 
+* Dr. Ulises Olivares Pinto  
+
+**Invitados:** 
+* Walter André Hauri Rosales  
 
 ## Objetivo General
 Desarrollar una comprensión profunda y aplicada de los principios y técnicas fundamentales de la inteligencia artificial y el aprendizaje profundo, capacitando a los participantes para diseñar, implementar y evaluar soluciones avanzadas en diversos contextos y problemas reales.
@@ -27,7 +33,8 @@ Desarrollar una comprensión profunda y aplicada de los principios y técnicas f
 - Considerar la ética en el desarrollo y aplicación de la IA.
 
 ## **Modalidad:** 
->Presencial  
+>Presencial
+>En línea
 ## **Prerrequisitos:** 
 + Computadora personal con acceso a internet
 + Cuenta de Gmail
