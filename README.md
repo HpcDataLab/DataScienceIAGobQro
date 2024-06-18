@@ -1,5 +1,8 @@
+<center>
+
 # Ciencia de Datos e Inteligencia Artificial
 
+</center>
 
 ![Logos participantes](figs/logos.png)
 
